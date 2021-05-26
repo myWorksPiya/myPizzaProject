@@ -1,10 +1,10 @@
 # pizza-php
 ** Technologies used **
  
- ## PHP
- ## mySQL
- ## HTML
- ## CSS
+  PHP
+  mySQL
+  HTML
+  CSS
  
 
 
